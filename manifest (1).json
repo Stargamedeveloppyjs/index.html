@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TIC TAC TOE PREMIUM",
+  "orientation": "any",
+  "scope": "./",
+  "short_name": "TIC TAC TOE",
+  "start_url": "index.html",
+  "theme_color": "#ffffff",
+  "description": "A premium , fluent-styled Tic Tac Toe",
+  "id": "/tictactoe"
+}
